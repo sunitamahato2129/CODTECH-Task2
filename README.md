@@ -3,9 +3,11 @@ Name:Sunita Mahato Company:CODTECH IT SOLUTIONS Id:CT4WD4643 Domain:WEB DEVELOPM
 
 Project:Weather ForCast App
 
-Objective The objective of this weather forecast project is to create a web application that allows users to enter a city name and retrieve the current weather information for that city. The application provides details such as temperature, humidity, wind speed, and weather conditions, and handles errors for invalid city names.
+Objective
+The objective of this weather forecast project is to create a web application that allows users to enter a city name and retrieve the current weather information for that city. The application provides details such as temperature, humidity, wind speed, and weather conditions, and handles errors for invalid city names.
 
-Key Activities: User Input and Search Functionality HTML: Create an input field for the city name and a search button within a form. JavaScript: Capture the user input and trigger a function to fetch weather data when the search button is clicked.
+Key Activities:
+User Input and Search Functionality HTML: Create an input field for the city name and a search button within a form. JavaScript: Capture the user input and trigger a function to fetch weather data when the search button is clicked.
 
 Fetch Weather Data from API JavaScript: Use the OpenWeatherMap API to retrieve weather information based on the city name provided by the user. Asynchronous Programming: Implement asynchronous functions to handle API requests and responses.
 
